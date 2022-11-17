@@ -1,1 +1,1 @@
-#variable "token" {}
+variable "do_token" {}

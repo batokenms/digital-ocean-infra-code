@@ -11,3 +11,4 @@ resource "digitalocean_database_cluster" "postgres-example" {
   region     = "nyc1"
   node_count = 1
 }
+
